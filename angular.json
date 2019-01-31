@@ -23,7 +23,10 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "./node_modules/ng-easyui/themes/material-teal/easyui.css",
+              "./node_modules/ng-easyui/themes/angular.css",
+              "./node_modules/ng-easyui/themes/icon.css"
             ],
             "scripts": []
           },
